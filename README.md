@@ -32,11 +32,11 @@ Automated tool to download and install the latest Intel WiFi and Bluetooth drive
 
 ## 🔧 Manual Update
 
-If automatic detection fails, you can manually update the driver information in `drivers.json` with the latest links from Station Drivers forum.
+If automatic detection fails, you can manually update the driver information in `wifi-drivers.json` and `bluetooth-drivers.json` with the latest links from Station Drivers.
 
 ## 🤝 Contributing
 
-Driver information is maintained based on posts from Station Drivers forum users, particularly @atplsx. If you have access to newer driver information, please update the `drivers.json` file.
+Driver information is maintained based on posts from Station Drivers forum users, particularly @atplsx. If you have access to newer driver information, please update the `wifi-drivers.json` and `bluetooth-drivers.json` file.
 
 ## 📝 License
 
