@@ -1,0 +1,16 @@
+{
+  "last_updated": "2025-01-20",
+  "source": "Station Drivers forum post by atplsx",
+  "driver_type": "WiFi",
+  "driver_ver": "10/21/2025,24.0.2.1",
+  "version": "24.0.2.1",
+  "date": "10/21/2025",
+  "download_urls": [
+    {
+      "url": "http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2025/11/6d322500-f05a-43b0-80b9-53ff53a4da78_2ce33220ae9e786b2cbbe2c1993f76e14fd54101.cab",
+      "hardware_ids": [
+        "*VEN_8086&DEV_*"
+      ]
+    }
+  ]
+}
