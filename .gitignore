@@ -1,0 +1,47 @@
+# Windows gitignore from https://github.com/github/gitignore/blob/main/Windows.gitignore
+
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Doodle desktop config
+.doodle
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://github.com/github/gitignore/blob/main/Windows.gitignore
+
+# Additionally, ignore any temporary driver folders and downloaded CABs in the project, but note that the script uses system temp.
+# We don't want to include any downloaded drivers in the repository.
+*.cab
+*.inf
+*.sys
+*.dll
+*.cat
+*.zip
+
+# Ignore any batch or PowerShell scripts that might be generated during testing, but we do want to keep the main ones.
+# We are only including the main scripts and the drivers.json, so we can ignore everything else.
+*
+!Update-Intel-WiFi-BT.bat
+!Update-Intel-WiFi-BT.ps1
+!drivers.json
+!README.md
+!SHORT_DESCRIPTION.md
+!LICENSE
