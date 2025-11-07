@@ -1,10 +1,10 @@
-# Intel WiFi & Bluetooth Driver Updater
+# Intel Wi-Fi & Bluetooth Driver Updater
 
-Automated tool to download and install the latest Intel WiFi and Bluetooth drivers directly from Windows Update servers.
+Automated tool to download and install the latest Intel Wi-Fi and Bluetooth drivers directly from Windows Update servers.
 
 ## 🚀 Features
 
-- **Automatic Detection**: Identifies Intel WiFi and Bluetooth adapters
+- **Automatic Detection**: Identifies Intel Wi-Fi and Bluetooth adapters
 - **Version Comparison**: Checks current driver versions vs latest available
 - **Direct Download**: Downloads drivers from official Windows Update servers
 - **Safe Installation**: Uses Windows pnputil for reliable driver installation
