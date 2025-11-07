@@ -56,7 +56,10 @@ This project is provided as-is for educational and convenience purposes.
 
 This tool is not affiliated with Intel Corporation. Drivers are sourced from official Windows Update servers. Use at your own risk.
 
----
+## 📸 Screenshot
 
+<img width="602" height="832" alt="Intel WiFi   BT Driver Updater" src="https://github.com/user-attachments/assets/e42d1760-05c6-414b-aba8-a704f7a6cfa1" />
+
+---
 **Maintainer**: Marcin Grygiel / www.firstever.tech  
 **Source**: https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater
