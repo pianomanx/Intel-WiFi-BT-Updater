@@ -73,8 +73,9 @@ This tool is not affiliated with Intel Corporation. Drivers are sourced from off
 
 ## 📸 Screenshot
 
-<img width="602" height="832" alt="Intel WiFi   BT Driver Updater" src="https://github.com/user-attachments/assets/e42d1760-05c6-414b-aba8-a704f7a6cfa1" />
+<img width="602" height="832" alt="Intel Wi-Fi   BT Driver Updater" src="https://github.com/user-attachments/assets/cf4aa504-8525-4ef7-9059-49217ff8a202" />
 
 ---
 **Maintainer**: Marcin Grygiel / www.firstever.tech  
-**Source**: https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater
+**Source**: https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater  
+**VirusTotal Scan**: [Result 0/98](https://www.virustotal.com/gui/url/d510a622186b403f9c328c6db36f846cd09be3ac193b6c1bfb4a4720b251bac5/detection) (Clean)
