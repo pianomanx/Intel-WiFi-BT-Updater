@@ -35,7 +35,7 @@ Automated tool to download and install the latest Intel WiFi and Bluetooth drive
 ## 🛠️ Usage
 
 ### Option 1: Download SFX Archive (Recommended)
-1. Download the latest SFX archive `WiFi-BT-24.0.x.x-Driver64-Win10-Win11.exe` from [Releases](https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater/releases)
+1. Download the latest SFX archive `WiFi-BT-24.x-Driver64-Win10-Win11.exe` from [Releases](https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater/releases)
 2. Run the executable as Administrator
 3. Follow the on-screen prompts
 
