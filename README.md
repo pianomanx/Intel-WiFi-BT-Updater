@@ -14,16 +14,22 @@ Automated tool to download and install the latest Intel WiFi and Bluetooth drive
 ## 📋 Supported Devices
 
 ### WiFi Adapters
-- Intel Wi-Fi 6 AX200
-- Intel Wi-Fi 6 AX201
-- Intel Wi-Fi 6E AX210
-- Intel Wi-Fi 7 BE200
-- Intel Wi-Fi 6 AX203
-- Intel Wi-Fi 6 AX101
-- Intel Wireless-AC 9560
-- Intel Wireless-AC 9462
-- Intel Wireless-AC 9461
-- Intel Wireless-AC 9260
+- Intel® Wi-Fi 7 BE201
+- Intel® Wi-Fi 7 BE202  
+- Intel® Wi-Fi 7 BE200
+- Intel® Wi-Fi 6 AX203
+- Intel® Wi-Fi 6E AX411 (Gig+)
+- Intel® Wi-Fi 6E AX211 (Gig+)
+- Intel® Wi-Fi 6E AX210 (Gig+)
+- Intel® Wi-Fi 6 AX200 (Gig+)
+- Intel® Wi-Fi 6 AX201 (Gig+)
+- Intel® Wi-Fi 6 AX101
+- Intel® Wi-Fi 6 (Gig+) Desktop Kit
+- Intel® Wireless-AC 9560
+- Intel® Wireless-AC 9462
+- Intel® Wireless-AC 9461
+- Intel® Dual Band Wireless-AC 9260 Embedded IoT Kit
+- Intel® Dual Band Wireless-AC 9260 Industrial IoT Kit
 - And all other Intel wireless adapters
 
 ### Bluetooth Adapters
