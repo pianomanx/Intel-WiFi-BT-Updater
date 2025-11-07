@@ -486,6 +486,6 @@ if ($response -eq "Y" -or $response -eq "y") {
 Write-Host "`nCleaning up temporary files..." -ForegroundColor Gray
 Clear-TempDriverFolders
 
-Write-Host "`nDriver update process completed." -ForegroundColor Cyan
-Write-Host "If you have any issues with this script, please report them at:"
-Write-Host "https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater" -ForegroundColor Cyan
+# Write-Host "`nDriver update process completed." -ForegroundColor Cyan
+# Write-Host "If you have any issues with this script, please report them at:"
+# Write-Host "https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater" -ForegroundColor Cyan

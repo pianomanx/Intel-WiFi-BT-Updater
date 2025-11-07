@@ -5,11 +5,27 @@ setlocal enabledelayedexpansion
 :: Supports WiFi 5 (AC) / Wi-Fi 6 (AX) / Wi-Fi 6E (AXE) / Wi-Fi 7 (BE) and Bluetooth
 :: Requires administrator privileges
 
-echo ==================================================
-echo    Intel Wireless and Bluetooth Drivers Update Tool
-echo    Supports: WiFi 5/6/6E/7 and Bluetooth
-echo    by Marcin Grygiel / www.firstever.tech
-echo ==================================================
+:: Set console window size to 75 columns and 50 lines
+mode con: cols=75 lines=50
+
+echo /*************************************************************************
+echo **               INTEL WIRELESS AND BLUETOOH DRIVER UPDATER              **
+echo ** --------------------------------------------------------------------- **
+echo **                                                                       **
+echo **                       Drivers Version: 24.0.x.x                       **
+echo **                                                                       **
+echo **                 Supports: WiFi 5/6/6E/7 and Bluetooth                 **
+echo **                 by Marcin Grygiel / www.firstever.tech                **
+echo **                                                                       **
+echo ** --------------------------------------------------------------------- **
+echo **       This tool is not affiliated with Intel Corporation.             **
+echo **       Drivers are sourced from official Windows Update servers.       **
+echo **       Use at your own risk.                                           **
+echo ** --------------------------------------------------------------------- **
+echo **                                                                       **
+echo **     GitHub: https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater     **
+echo **                                                                       **
+echo *************************************************************************/
 echo.
 
 :: Get the directory where this batch file is located

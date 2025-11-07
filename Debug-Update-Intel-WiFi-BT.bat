@@ -5,11 +5,27 @@ setlocal enabledelayedexpansion
 :: Downloads latest drivers from GitHub and updates if newer versions available
 :: Requires administrator privileges
 
-echo ==================================================
-echo    Intel Wireless & Bluetooth Drivers Update Tool
-echo                 DEBUG VERSION
-echo    by Marcin Grygiel / www.firstever.tech
-echo ==================================================
+:: Set console window size to 210 columns and 105 lines
+mode con: cols=210 lines=105
+
+echo /*************************************************************************
+echo **               INTEL WIRELESS AND BLUETOOH DRIVER UPDATER              **
+echo ** --------------------------------------------------------------------- **
+echo **                                                                       **
+echo **               Drivers Version: 24.0.x.x [DEBUG VERSION]               **
+echo **                                                                       **
+echo **                 Supports: WiFi 5/6/6E/7 and Bluetooth                 **
+echo **                 by Marcin Grygiel / www.firstever.tech                **
+echo **                                                                       **
+echo ** --------------------------------------------------------------------- **
+echo **       This tool is not affiliated with Intel Corporation.             **
+echo **       Drivers are sourced from official Windows Update servers.       **
+echo **       Use at your own risk.                                           **
+echo ** --------------------------------------------------------------------- **
+echo **                                                                       **
+echo **     GitHub: https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater     **
+echo **                                                                       **
+echo *************************************************************************/
 echo.
 
 :: Get the directory where this batch file is located
