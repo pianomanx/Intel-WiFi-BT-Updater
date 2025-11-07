@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-:: Intel Wireless & Bluetooth Drivers Update Tool (Debug Version)
+:: Intel Wi-Fi & Bluetooth Drivers Update Tool (Debug Version)
 :: Downloads latest drivers from GitHub and updates if newer versions available
 :: Requires administrator privileges
 
@@ -9,12 +9,12 @@ setlocal enabledelayedexpansion
 mode con: cols=210 lines=105
 
 echo /*************************************************************************
-echo **               INTEL WIRELESS AND BLUETOOH DRIVER UPDATER              **
+echo **                INTEL WI-FI AND BLUETOOH DRIVER UPDATER                **
 echo ** --------------------------------------------------------------------- **
 echo **                                                                       **
 echo **               Drivers Version: 24.0.x.x [DEBUG VERSION]               **
 echo **                                                                       **
-echo **                 Supports: WiFi 5/6/6E/7 and Bluetooth                 **
+echo **                 Supports: Wi-Fi 5/6/6E/7 and Bluetooth                **
 echo **                 by Marcin Grygiel / www.firstever.tech                **
 echo **                                                                       **
 echo ** --------------------------------------------------------------------- **
