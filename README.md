@@ -1,6 +1,11 @@
-# Intel Wi-Fi & Bluetooth Driver Updater 24.0
+# Intel Wi-Fi & Bluetooth Driver Updater
+
+## 🧾 Description
 
 Automated tool to download and install the latest Intel Wi-Fi and Bluetooth drivers directly from Windows Update servers.
+
+## 🪪 Version
+Latest stable release: [10.1.20266.8668](https://github.com/TwojUser/TwojRepo/releases)
 
 ## 🚀 Features
 
