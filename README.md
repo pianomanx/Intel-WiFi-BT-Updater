@@ -1,11 +1,10 @@
 # Intel Wi-Fi & Bluetooth Driver Updater
 
 ## 🧾 Description
-
 Automated tool to download and install the latest Intel Wi-Fi and Bluetooth drivers directly from Windows Update servers.
 
 ## 🪪 Version
-Latest stable release: [10.1.20266.8668](https://github.com/TwojUser/TwojRepo/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/FirstEver-eu/Intel-WiFi-BT-Updater?style=flat-square&label=Latest%20Version)](https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater/releases)
 
 ## 🚀 Features
 
@@ -61,26 +60,21 @@ For detailed logging and troubleshooting, use:
 - Provides extensive logging for issue diagnosis
 
 ## 🔧 Manual Update
-
 If automatic detection fails, you can manually update the driver information in `wifi-drivers.txt` and `bluetooth-drivers.txt` with the latest links from Station Drivers.
 
 ## 🤝 Contributing
-
 Driver information is maintained based on posts from Station Drivers forum users, particularly @atplsx. If you have access to newer driver information, please update the text files.
 
 ## 📝 License
-
+MIT License © 2025 [FirstEver-eu](https://github.com/FirstEver-eu)
 This project is provided as-is for educational and convenience purposes.
 
 ## ⚠️ Disclaimer
-
 This tool is not affiliated with Intel Corporation. Drivers are sourced from official Windows Update servers. Use at your own risk.
 
 ## 📸 Screenshot
-
 <img width="602" height="832" alt="Intel Wi-Fi   BT Driver Updater" src="https://github.com/user-attachments/assets/cf4aa504-8525-4ef7-9059-49217ff8a202" />
 
----
 **Maintainer**: Marcin Grygiel / www.firstever.tech  
 **Source**: https://github.com/FirstEver-eu/Intel-WiFi-BT-Updater  
 **VirusTotal Scan**: [Result 0/98](https://www.virustotal.com/gui/url/d510a622186b403f9c328c6db36f846cd09be3ac193b6c1bfb4a4720b251bac5/detection) (Clean)
